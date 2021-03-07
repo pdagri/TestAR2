@@ -1,0 +1,11 @@
+Model Information:
+* title:	Raygun BlackOps: II Zombie
+* source:	https://sketchfab.com/3d-models/raygun-blackops-ii-zombie-5176317462e44954bf9b8d39b8d69289
+* author:	Georgina_Tugores (https://sketchfab.com/Georgina_Tugores)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Raygun BlackOps: II Zombie" (https://sketchfab.com/3d-models/raygun-blackops-ii-zombie-5176317462e44954bf9b8d39b8d69289) by Georgina_Tugores (https://sketchfab.com/Georgina_Tugores) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
